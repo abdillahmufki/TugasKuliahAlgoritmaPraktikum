@@ -1,0 +1,4 @@
+﻿  Source.cpp
+tipedata.obj : error LNK2005: _main already defined in Source.obj
+variabel.obj : error LNK2005: _main already defined in Source.obj
+E:\c++\variabel\Debug\variabel.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,24 @@
+﻿  QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(8,10): warning C4551: function call missing argument list
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(8,22): error C2450: a switch expression of type 'overloaded-function' is not valid
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(8,10): message : Integral expression required
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(10,6): error C2061: syntax error: identifier 'nilaiAkhir'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(10,22): error C2059: syntax error: ')'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(10,24): error C2143: syntax error: missing ';' before '{'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(11,11): error C2065: 'lulus': undeclared identifier
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(12,3): error C2181: illegal else without matching if
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(17,22): error C2446: '<': no conversion from 'int' to 'float (__cdecl *)(int,char)'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(17,20): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(18,11): error C2065: 'tidak': undeclared identifier
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(18,17): error C2146: syntax error: missing ';' before identifier 'lulus'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(18,17): error C2065: 'lulus': undeclared identifier
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(30,37): error C2556: 'void nilaiAkhir(int,char)': overloaded function differs only by return type from 'float nilaiAkhir(int,char)'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(5): message : see declaration of 'nilaiAkhir'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(30,6): error C2371: 'nilaiAkhir': redefinition; different basic types
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(5): message : see declaration of 'nilaiAkhir'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(30,37): error C2601: 'nilaiAkhir': local function definitions are illegal
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(5): message : this line contains a '{' which has not yet been matched
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(33,22): error C2059: syntax error: ')'
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(53,12): error C2601: 'main': local function definitions are illegal
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(30): message : this line contains a '{' which has not yet been matched
+E:\c++\Project3\Project3\QuizAlproPrak(40621100046)(AbdillahMufkiAuzanMubin)RegB1.KlsA.cpp(30): fatal error C1075: '{': no matching token found

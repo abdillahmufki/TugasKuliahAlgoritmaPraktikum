@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ab66dcd-0dac-43a6-87bb-ec8309ba4680": {
+      "ProjectGuid": "7ab66dcd-0dac-43a6-87bb-ec8309ba4680",
+      "DisplayName": "aritmatika.cpp",
+      "ColorIndex": 0
+    },
+    "6c6a0c07-be2e-4f1d-af97-dfff95235c89": {
+      "ProjectGuid": "6c6a0c07-be2e-4f1d-af97-dfff95235c89",
+      "DisplayName": "komparasi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

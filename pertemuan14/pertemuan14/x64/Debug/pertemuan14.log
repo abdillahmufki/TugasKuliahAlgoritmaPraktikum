@@ -1,0 +1,19 @@
+﻿  Source.cpp
+E:\c++\pertemuan14\pertemuan14\Source.cpp(9,2): error C2065: 'cout': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(9,46): error C2065: 'endl': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(10,2): error C2065: 'cout': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(10,47): error C2065: 'endl': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\c++\pertemuan14\pertemuan14\Source.cpp(18,2): error C2065: 'cout': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(18,43): error C2065: 'endl': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(19,2): error C2065: 'cout': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(19,43): error C2065: 'endl': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(19,51): error C2065: 'endl': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(20,2): error C2065: 'cout': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(20,38): error C2065: 'cin': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(21,2): error C2065: 'cout': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(21,39): error C2065: 'cin': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(22,2): error C2065: 'cout': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(22,39): error C2065: 'cin': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(23,2): error C2065: 'cout': undeclared identifier
+E:\c++\pertemuan14\pertemuan14\Source.cpp(25,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
